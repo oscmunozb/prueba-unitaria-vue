@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Vista HomeView.vue Snapshot de la estructura HTML del componente HomeView.vue 1`] = `
+<div class="home"><img alt="Vue logo" src="">
+  <div class="posts">
+    <h1>Vista de Posts</h1>
+    <ul>
+      <li>Post 1</li>
+      <li>Post 2</li>
+      <li>Post 3</li>
+      <li>Post 4</li>
+    </ul>
+  </div>
+</div>
+`;
